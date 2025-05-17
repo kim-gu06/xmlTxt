@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+<div type="entries">
+    <div type="entry" n="1">
+        <pb n="3"/>
+            <lb n="1"/>or mortification of heap bone
+        <p>
+            <lb n="2"/>I sent Alexander to Nezam ed
+            <lb n="3"/>Din to tell him, that I feel
+            <lb n="4"/>well, but only no taste [torn] in my
+            <lb n="5"/>mouth &amp; bowels worked yesterd [torn]
+            <lb n="6"/>a little &amp; that I take nothing
+            <lb n="7"/>but jelly, milk &amp; soda &amp; some
+            <lb n="8"/>sweet lemon; and if also I can
+            <lb n="9"/>take the Kola bitter as tonic
+            <lb n="10"/>he said that I can take it once 
+            <lb n="11"/>&amp; continue what I am using.
+            <lb n="12"/>But at about 4 P.M. I began
+            <lb n="13"/>to feel the wind working up
+            <lb n="14"/>and digging on with pain.
+            <lb n="15"/>At 5 I took a coffee cup of the
+            <lb n="16"/>bitter Kola &amp; this increased the
+            <lb n="17"/><damage agent="torn"></damage>in to such an extent that
+            <lb n="18"/><damage agent="torn"></damage>ould not stand it, the pain
+            <lb n="19"/><damage agent="torn"></damage>ms to have come back
+            <lb n="20"/><damage agent="torn"></damage>before, I had not had it
+            <lb n="21"/><damage agent="torn"></damage>ce Saturday, I gave u
+            <lb n="22"/><damage agent="torn"></damage>de at all, what could
+        </p>
+        <p>
+            <lb n="23"/><damage agent="torn"></damage>~ Rezooki Andria called
+            <lb n="24"/><damage agent="torn"></damage>vening ~
+            <lb n="25"/><damage agent="torn"></damage>soda &amp; milk, sucked
+            <lb n="26"/><damage agent="torn"></damage>but all in vain
+            <lb n="27"/><damage agent="torn"></damage>so acute in the
+            <lb n="28"/><damage agent="torn"></damage>that made me
+            <lb n="29"/><damage agent="torn"></damage>kept all
+        <pb n="4"/>
+            <lb n="1"/><damage agent="torn"></damage>at 10 ½ p.m. I
+            <lb n="2"/><damage agent="torn"></damage>piece of soap &amp;
+            <lb n="3"/><damage agent="torn"></damage>ed very little, mild
+            <lb n="4"/><damage agent="torn"></damage>ck, it is from the
+            <lb n="5"/><damage agent="torn"></damage>o magnesiume; the
+            <lb n="6"/><damage agent="torn"></damage>ll continues; I took a
+            <lb n="7"/><damage agent="torn"></damage>f Effervescent Citrate of
+            <lb n="8"/><damage agent="torn"></damage>sia, it calmed the pain
+            <lb n="9"/><damage agent="torn"></damage>e &amp; I could sleep for a
+            <lb n="10"/><damage agent="torn"></damage>t time, &amp; recommenced
+            <lb n="11"/><damage agent="torn"></damage>on. ~
+        </p>
+        <p>
+            <lb n="12"/><damage agent="torn"></damage>Light N.W. &amp; cloudy,
+            <lb n="13"/><damage agent="torn"></damage>The pain still continues, but
+            <lb n="14"/><damage agent="torn"></damage>ot so severe ~ Alexander went
+            <lb n="15"/><damage agent="torn"></damage>tell Nizam ed Din, he prescribed
+            <lb n="16"/><damage agent="torn"></damage>me some Belladonna to take
+            <lb n="17"/><damage agent="torn"></damage>5 drops in a cup of water every
+            <lb n="18"/>two hours, he is astonished
+            <lb n="19"/>to see the pain returning and
+            <lb n="20"/>for no cause given whatever,
+            <lb n="21"/>he told him to wait until 
+            <lb n="22"/>tomorrow &amp; if the pain does not
+            <lb n="23"/>got, he will have to bring with
+            <lb n="24"/>him Dr. Bridgestock of the 
+            <lb n="25"/>English missionary society
+        </p>
+        <p>
+            <lb n="26"/>Sister Emilia &amp; Medoola my
+            <lb n="27"/>step daughter called on me ~
+        </p>
+        <p>
+            <lb n="28"/>The pain increased all
+            <lb n="29"/><damage agent="torn"></damage>, I am only taking
+            <lb n="30"/>the Belladonna 5 drops in
+        <pb n="5"/>
+            <lb n="1"/>the water but it is scarsely
+            <lb n="2"/>doing me any good ~
+        </p>
+        <p>
+            <lb n="3"/>At 1 P.M. I made an injection
+            <lb n="4"/>of olive oil, hot water &amp; soap, and
+            <lb n="5"/>it worked out very dark green
+            <lb n="6"/>with some costiveness, it allayed
+            <lb n="7"/>the pain only for an hour &amp;
+            <lb n="8"/>recommenced, I left off sucking
+            <lb n="9"/>any sweet lemon or oranges, it
+            <lb n="10"/>may perhaps be from it; I only
+            <lb n="11"/>took a half cup of very weak 
+            <lb n="12"/>broth at 3 P.M. ~ The pain
+            <lb n="13"/>however kept killing me until
+            <lb n="14"/>the evening, when Alexander
+            <lb n="15"/>went to tell Nezamed Din
+            <lb n="16"/>of my state &amp; sufferings; He
+            <lb n="17"/>prescribed me 4 packets of
+            <lb n="18"/>morphine &amp; cocaine to be taken
+            <lb n="19"/>every two hours, I applied hot
+            <lb n="20"/>formulation &amp; Linseed poultice
+            <lb n="21"/>but did not allay the pain 
+            <lb n="22"/>[struck through]; the morphine &amp; cocain
+            <lb n="23"/>did not also do much good 
+            <lb n="24"/>and sleep is impossible ~
+        </p>
+    </div>
+    <div type="entry_notes">
+        <note place="margin page 4" rend="vertical">Brigstock</note>
+    </div>
+     <div type="entry" n="2">
+        <head place="margin">
+            <date when="1904-02-11"/>
+        </head>
+    </div>
+</div>
+</body>
+</text>
+</TEI>
